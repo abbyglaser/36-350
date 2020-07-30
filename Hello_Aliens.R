@@ -1,4 +1,4 @@
 
 
-print("Hello Aliens, I am from the planet earth. I live on one of 7 continents, which are surrounded by water. On our planet, we have many different species. I am a human, and we live on land. Humans speak many different languages, and have many different cultures and traditions. What about you? Is your planet made up of mostly land or water? Are there many different species? Does your species have a wide range of languages and customs depending on where you live?")
+cat("Hello Aliens, I am from the planet earth. I live on one of 7 continents, which are surrounded by water. On our planet, we have many different species. I am a human, and we live on land. Humans speak many different languages, and have many different cultures and traditions. What about you? Is your planet made up of mostly land or water? Are there many different species? Does your species have a wide range of languages and customs depending on where you live?")
 
